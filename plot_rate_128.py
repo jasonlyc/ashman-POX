@@ -1,6 +1,3 @@
-'''
-@author: Milad Sharif(msharif@stanford.edu)
-'''
 
 from monitor.helper import *
 from math import fsum
