@@ -1,6 +1,4 @@
 ''' Simple data center controller
-
-    @author Milad Sharif (msharif@stanford.edu)
     
     based on riplpox 
 '''
