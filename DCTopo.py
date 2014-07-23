@@ -3,8 +3,6 @@
 '''
 Fat tree topology for data center networking
 
-@author Milad Sharif (msharif@stanford.edu)
-
 '''
 
 from mininet.topo import Topo
