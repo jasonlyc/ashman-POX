@@ -1,6 +1,5 @@
 ''' Simple hashed-based routing
 
-@author: Milad Sharif (msharif@stanford.edu)
 '''
 
 import logging
