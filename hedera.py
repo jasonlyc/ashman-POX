@@ -1,6 +1,3 @@
-'''
-@author: Milad Sharif (msharif@stanfor.edu)
-'''
 
 from mininet.topo import Topo
 from mininet.node import Controller, RemoteController, OVSKernelSwitch, CPULimitedHost
