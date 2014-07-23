@@ -1,6 +1,4 @@
 ''' Hedera data center controller
-
-@author: Behnam Montazeri (behnamm@stanford.edu)
 '''
 
 import logging
