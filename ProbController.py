@@ -1,5 +1,3 @@
-''' Hedera data center controller
-'''
 
 import logging
 
